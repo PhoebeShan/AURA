@@ -1,0 +1,7 @@
+{
+  "name": "Aura - The Invisible Labor Value Bank",
+  "description": "A relationship-enhancing app that quantifies invisible household labor into 'Aura' points using Gemini AI, allowing partners to visualize contributions and redeem them for wishes.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
